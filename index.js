@@ -1,5 +1,5 @@
 var my_name = "Ezemenahi Benedict";
-var height = "5'9ft";
+var height = "5'9 ft";
 var country = "Nigeria";
 
 document.write("My name is ", my_name);
